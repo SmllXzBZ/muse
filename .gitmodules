@@ -4,7 +4,7 @@
 [submodule "qsym"]
 	path = qsym
 	url = https://github.com/sslab-gatech/qsym.git
-[submodule "svf-muse"]
+[submodule "svf"]
 	path = svf
 	url = https://github.com/evanmak/svf-muse.git
 
