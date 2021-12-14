@@ -28,7 +28,7 @@ To see some examples on how to configure muse, please look at the [examples](./e
 
 ## Clone the repo
 ```
-git clone --recurse-submodules git@github.com:RiS3-Lab/muse.git
+git clone --recurse-submodules https://github.com/hjyuan/muse.git
 ```
 
 ## How to build Muse
