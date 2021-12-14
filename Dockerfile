@@ -43,7 +43,7 @@ RUN           pip install termcolor
 RUN           mkdir  -p      /root/work/muse
 COPY          DynInstr       /root/work/muse/DynInstr
 COPY          patches        /root/work/muse/patches
-COPY          svf            /root/work/muse/svf
+COPY          svf-muse       /root/work/muse/svf
 COPY          AFL            /root/work/muse/AFL
 COPY          qsym           /root/work/muse/qsym
 COPY          coordinator    /root/work/muse/coordinator        
