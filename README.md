@@ -1,9 +1,6 @@
 # MEUZZ Fuzzer 
 
-## Clone the repo
-
-git clone --recurse-submodules git@github.com:RiS3-Lab/muse.git
-
+The implementation of MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing
 
 ## Work Flow
 
@@ -28,6 +25,11 @@ Coordinator use *dyninst-prog* + *prog.edge* + *prog.reach.bug* + *prog.reach.co
 
 
 To see some examples on how to configure muse, please look at the [examples](./examples) directory.
+
+## Clone the repo
+```
+git clone --recurse-submodules git@github.com:RiS3-Lab/muse.git
+```
 
 ## How to build Muse
 
