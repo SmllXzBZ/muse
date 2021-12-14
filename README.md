@@ -64,7 +64,7 @@ to test out MUSE.
 ```
 # use --privileged flag to allow docker to mount a ramdisk
 
-$ docker run --cap-add=SYS_PTRACE --priviledged -it muse:latest /bin/bash
+$ docker run --cap-add=SYS_PTRACE --privileged -it muse:latest /bin/bash
 ```
 
 ## Citation
