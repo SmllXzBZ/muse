@@ -5,5 +5,5 @@
 	path = qsym
 	url = git@github.com:sslab-gatech/qsym.git
 [submodule "svf-muse"]
-	path = svf
+	path = svf-muse
 	url = git@github.com:evanmak/svf-muse.git
